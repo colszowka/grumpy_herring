@@ -3,10 +3,11 @@ Grumpy Herring
 
 ## Usage
 
-  gem install grumpy_herring
-
-  require 'grumpy_herring'
-  name = GrumpyHerring.next
+    $ gem install grumpy_herring
+    $ irb
+    > require 'grumpy_herring'
+    > GrumpyHerring.next
+    => "Small Hamlet"
   
 ## Examples
 
