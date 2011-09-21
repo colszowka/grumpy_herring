@@ -38,6 +38,8 @@ Grumpy Herring
     Embarrassed Tope
     Jolly Soapfish
     Deafening Swordfish
+    
+The included word lists are sufficient for > 100000 names
 
 ## Copyright
 

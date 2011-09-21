@@ -9,4 +9,8 @@ class GenerationTest < Test::Unit::TestCase
       puts name
     end
   end
+  
+  def test_combinations
+    assert GrumpyHerring.combinations > 100_000
+  end
 end

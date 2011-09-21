@@ -28,8 +28,6 @@ module GrumpyHerring
       
       def _word_list(name)
         WordList.new(File.read(File.join(File.dirname(__FILE__), 'word_lists', "#{name}.txt")).split("\n"))
-      rescue => err
-        nil
       end
   end
 end
