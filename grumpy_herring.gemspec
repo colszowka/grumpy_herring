@@ -4,8 +4,8 @@ require File.expand_path('../lib/grumpy_herring/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Christoph Olszowka"]
   gem.email         = ["christoph at olszowka de"]
-  gem.description   = %q{Grumpy Herring generates nice names for you, randomly}
-  gem.summary       = %q{Grumpy Herring generates nice names for you, randomly}
+  gem.description   = %q{Generates names for your startup's pricing plans}
+  gem.summary       = %q{Generates names for your startup's pricing plans}
   gem.homepage      = ""
   
   gem.add_development_dependency 'simplecov', '>= 0.5.3'

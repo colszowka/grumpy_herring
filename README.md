@@ -1,6 +1,8 @@
 Grumpy Herring
 ==============
 
+*** Generates names for your startup's pricing plans ***
+
 ## Usage
 
     $ gem install grumpy_herring
